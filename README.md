@@ -11,14 +11,9 @@ This repository is a work in progress, where I tackle the intricacies of machine
   - Basic architecture  
   - Multi-Head Attention  
   - Feedforward Network  
-- [ ] Decoder  
+- [x] Decoder  
   - Integration with the encoder  
   - Positional encoding  
-- [ ] Training Pipeline  
-  - Dataset preprocessing  
-  - Loss function and optimization  
-- [ ] Evaluation  
-  - Model performance metrics  
-  - Comparative analysis  
+
 
 
